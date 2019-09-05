@@ -1,5 +1,5 @@
 
-# Blastars - An Interactive Battleship Arcade Game
+# Space Hunter - An Interactive Battleship Arcade Game
 ## About
 - An interactive 3D battleship game with visually pleasing graphic animations with levels of increasing difficulty. 
 - The user can control the spaceship using the arrow keys and shoot laser beams at incoming UFO targets generated at random co-ordinates. 
