@@ -1,5 +1,5 @@
 
-# Blastar - An Interactive Battleship Arcade Game
+# Blastars - An Interactive Battleship Arcade Game
 ## About
 - My take on Elon Musk's first game - https://blastar-1984.appspot.com/
 - An interactive 3D battleship game with visually pleasing graphic animations with levels of increasing difficulty. 
