@@ -1,6 +1,7 @@
 
-# Space Hunter - An Interactive Battleship Arcade Game
+# Blastar - An Interactive Battleship Arcade Game
 ## About
+- My take on Elon Musk's first game - https://blastar-1984.appspot.com/
 - An interactive 3D battleship game with visually pleasing graphic animations with levels of increasing difficulty. 
 - The user can control the spaceship using the arrow keys and shoot laser beams at incoming UFO targets generated at random co-ordinates. 
 - In addition, the user has added customization controls such as choosing the color of the battleship and the laser-beam.
